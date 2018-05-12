@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42487'
     url: http://www.gutenberg.org/2009/agents/42487
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44041#The-Mystery-of-Arnold-Hall
 gutenberg_issued: '2013-10-26'
 gutenberg_type: Text
 identifiers:
